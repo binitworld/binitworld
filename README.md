@@ -1,6 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Binit Bhushan</h1>
+<h3 align="center">A Student | A Learner| A Developer</h3>
 
-Hi I'm Binit Bhushan ,
+
+# 💫 About Me:
 
 🔭 I’m currently working on DevOps<br><br>🌱 I’m currently learning Web Devlopment<br><br>👯 I’m looking to collaborate with Open Source projects<br><br>📫 How to reach me: contactbinitbhushan@gmail.com<br><br>
 
@@ -14,8 +16,27 @@ Hi I'm Binit Bhushan ,
  
 
 
-## 🏆 GitHub Trophies
+## 🚀🏆 GitHub Trophies & Streaks
 ![](https://github-profile-trophy.vercel.app/?username=binitworld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+    <a href="https://github.com/binitworld/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binit Bhushan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=binitworld&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+   <p align="center">
+    <a href="https://github.com/binitworld/github-readme-stats"><img alt="Binit Bhushan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=binitworld&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/binitworld/github-readme-stats"><img alt="Binit Bhushan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitworld&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <br/>
+       </p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience's or skill levels.
+
+<br/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
