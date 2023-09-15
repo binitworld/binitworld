@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on DevOps<br><br>🌱 I’m currently learning Web Devlopment<br><br>👯 I’m looking to collaborate with Open Source projects<br><br>📫 How to reach me: contactbinitbhushan@gmail.com<br><br>
+🔭 I’m currently working on DevOps | Fullstack Development <br><br>🌱 I’m currently learning Web Devlopment | Data Structures & Algorithms <br><br>👯 I’m looking to collaborate with Open Source projects<br><br>📫 How to reach me: contactbinitbhushan@gmail.com<br><br>
 
 
 ## 🌐 Socials:
