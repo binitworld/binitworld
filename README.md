@@ -42,6 +42,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 <img aling="centre" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
