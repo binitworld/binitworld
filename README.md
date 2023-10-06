@@ -22,8 +22,7 @@
  
 
 
-## 🚀🏆 GitHub Trophies & Streaks
-![](https://github-profile-trophy.vercel.app/?username=binitworld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🚀🏆 GitHub Streaks
 
 <p align="center">
     <a href="https://github.com/binitworld/github-readme-streak-stats">
