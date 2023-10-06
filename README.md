@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/binitworld/binitworld/blob/main/binit's-banner.gif" alt="MasterHead" width="1300" height="260">
+</p>
+
 <h1 align="center">Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" height="45" width="45"/>, I'm Binit Bhushan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binitworld&label=Profile%20views&color=0e75b6&style=flat" alt="binitworld" /> </p>
 <h3 align="center">A Student | A Learner| A Developer</h3>
