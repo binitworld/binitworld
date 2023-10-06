@@ -26,10 +26,10 @@
 <br/>
 <p align="center">
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binitworld&theme=github_dark">
-        <img alt="Binit Bhushan's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binitworld&theme=github_dark" width="200" height="200" />
+        <img alt="Binit Bhushan's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binitworld&theme=github_dark" width="400" />
     </a>
     <a href="https://github.com/binitworld/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binit Bhushan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=binitworld&theme=black-ice&hide_border=true&stroke=0000&background=000000" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binit Bhushan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=binitworld&theme=black-ice&hide_border=true&stroke=0000&background=000000" width="450" />
     </a>
 </p>
 
