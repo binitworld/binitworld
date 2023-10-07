@@ -22,7 +22,7 @@
  
 
 
-## 🚀🏆 GitHub Stats
+## 🚀🏆 GitHub Trophies & Streak
 ![](https://github-profile-trophy.vercel.app/?username=binitworld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <p align="center">
  </a>
