@@ -11,7 +11,7 @@
 <br><br>
 # 💫 About Me:
 
-🔭 I’m currently working on DevOps | Fullstack Development | Machine Learning <br><br>🌱 I’m currently learning Web Development | Data Structures & Algorithm's <br><br>👯 I’m looking to collaborate with Open Source projects<br><br>📫 How to reach me: contactbinitbhushan@gmail.com<br>https://binitworld.github.io/binit/<br>
+🔭 I’m currently working on DevOps | Fullstack Development | Machine Learning <br><br>🌱 I’m currently learning Web Development | Data Structures & Algorithm's <br><br>👯 I’m looking to collaborate with Open Source projects<br><br>📫 How to reach me: contactbinitbhushan@gmail.com<br> https://binitworld.me/binit/ <br>
 
 
 ## 🌐 Socials:
